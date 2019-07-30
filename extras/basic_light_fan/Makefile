@@ -1,4 +1,4 @@
-PROGRAM = led
+PROGRAM = basic_light_fan
 
 EXTRA_COMPONENTS = \
 	extras/http-parser \
